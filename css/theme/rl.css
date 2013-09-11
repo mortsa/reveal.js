@@ -16,9 +16,9 @@
  *********************************************/
 body {
   background: white;
-  background-image: url("/lib/logo/rl.png"), -webkit-linear-gradient(top, #f0f9ff 0%, white 97%, #757575 98%, #757575 100%);
+  background-image: url("../../lib/logo/rl.png"), -webkit-linear-gradient(top, #f0f9ff 0%, white 97%, #757575 98%, #757575 100%);
   /* Chrome10+, Safari5.1+ */
-  background-image: url("/lib/logo/rl.png"), -linear-gradient(to bottom, #f0f9ff 0%, white 97%, #757575 98%, #757575 100%);
+  background-image: url("../../lib/logo/rl.png"), -linear-gradient(to bottom, #f0f9ff 0%, white 97%, #757575 98%, #757575 100%);
   /* W3C */
   background-repeat: no-repeat;
   background-color: white; }
